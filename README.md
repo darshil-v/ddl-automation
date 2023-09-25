@@ -1,6 +1,6 @@
 Steps:
 
-0. Ensure your system has Python 3.* installed. Additionally, Python package manager `pip`
+0. Ensure your system has `Python 3` installed. Additionally, Python package manager `pip`
     (https://pip.pypa.io/en/stable/installation/) should be installed to download necessary
     libraries and dependencies. Once `pip` is installed, run the following command:
     > pip install -r requirements.txt
