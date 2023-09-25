@@ -4,6 +4,7 @@ Steps:
     (https://pip.pypa.io/en/stable/installation/) should be installed to download necessary
     libraries and dependencies. Once `pip` is installed, run the following command:
     > pip install -r requirements.txt
+    
     Some of the modules may vary based on the operating systems. Kindly check module
     documentation for your system if error persists.
 
