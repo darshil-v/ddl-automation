@@ -1,0 +1,3 @@
+openpyxl==3.0.10
+snowflake==0.0.3
+snowflake_connector_python==2.7.11
